@@ -18,6 +18,7 @@ int main(){
                 f = 1;
             }
         }
+        printf("swapped(1 for yes and 0 for not): %d\n",f);
            if(f==0)
             break;
 
